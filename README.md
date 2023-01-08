@@ -5,11 +5,12 @@ and it has Windows Security you can download it for free
 
 To install it :
 
-1.Download the Rufus from https://rufus.ie/en/
-2.Now you need a pendrive to install it.
-3.Now plug the pendrive and open rufus and select windows 10 lite iso and select if your system MBR or GPT.
-4.after completing install as you install windows 10 you can follow this youtube link https://www.youtube.com/watch?v=IAKjKiJAacg&ab_channel=HowToFixTech
-5.After this follow below!!!
+1.install Utorrent or bittorrent to download iso file : https://www.bittorrent.com/downloads/windows/
+2.Download the Rufus from https://rufus.ie/en/
+3.Now you need a pendrive to install it.
+4.Now plug the pendrive and open rufus and select windows 10 lite iso and select if your system MBR or GPT.
+5.after completing install as you install windows 10 you can follow this youtube link https://www.youtube.com/watch?v=IAKjKiJAacg&ab_channel=HowToFixTech
+6.After this follow below!!!
 
 After installing windows 10 lite:
 
@@ -36,4 +37,4 @@ To make it more performance use this:
 7.if you have an HDD open optimize and defragment in windows search and click optimize after completing the process you pc will work faster
    WARNING!!!! you have SSD dont do this it reduce the life span of SSD
 
-MADE BY LIKHITH
+!!!!!! MADE BY LIKHITH !!!!!!!
