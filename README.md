@@ -1,4 +1,4 @@
-# Windows-10-Lite
+# Windows-10(22h2)-Lite
 
 This is Lite version of windows and compare to others it has official support of windows Update
 and it has Windows Security you can download it for free
@@ -36,3 +36,4 @@ To make it more performance use this:
 7.if you have an HDD open optimize and defragment in windows search and click optimize after completing the process you pc will work faster
    WARNING!!!! you have SSD dont do this it reduce the life span of SSD
 
+MADE BY LIKHITH
